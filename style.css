@@ -1,0 +1,23 @@
+body {
+    background-color: #101820;
+    font-family:monospace;
+    color:#FEE715;
+    margin: 5px;
+}
+
+h1{
+    text-align: center;
+    margin: 15px;
+    padding: 15px;
+/*    background-color: #101820; */
+    backdrop-filter: blur(20px);
+}
+
+p{
+    font-size: 20px;
+    text-align: center;
+}
+
+ul{
+    font-size: 17px;
+}
