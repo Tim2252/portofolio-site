@@ -40,7 +40,7 @@ ul{
     cursor: pointer;
     margin: 3%;
     margin-left: 5%;
-    margin-right: 56vw;
+    margin-right: 50vw;
     letter-spacing: 1px;
     font-family:'Arial';
     padding-left:2%;
@@ -57,6 +57,7 @@ h2 {
     color:white;
     font-weight: bold;
     text-align: center;
+    font-size:1.33vh;
 }
 h3 {
     font-size: 2vh;
